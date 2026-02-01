@@ -25,7 +25,7 @@ The goal is to identify why employees leave and what factors influence turnover.
 - Certain job roles show higher risk of leaving
 
 ## Dashboard Preview
-(Add screenshot)
+https://github.com/ShiflaC/Data-Analytics-Portfolio/blob/main/Power%20BI%20HR%20Analytics/Page%202.png?raw=true
 
 ## Dashboard Link
 (Add Power BI Service link)
